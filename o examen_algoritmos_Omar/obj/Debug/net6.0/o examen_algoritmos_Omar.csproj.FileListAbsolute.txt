@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\bin\Debug\net6.0\o examen_algoritmos_Omar.exe
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\bin\Debug\net6.0\o examen_algoritmos_Omar.deps.json
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\bin\Debug\net6.0\o examen_algoritmos_Omar.runtimeconfig.json
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\bin\Debug\net6.0\o examen_algoritmos_Omar.dll
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\bin\Debug\net6.0\o examen_algoritmos_Omar.pdb
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\obj\Debug\net6.0\o examen_algoritmos_Omar.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\obj\Debug\net6.0\o examen_algoritmos_Omar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\obj\Debug\net6.0\o examen_algoritmos_Omar.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\obj\Debug\net6.0\o examen_algoritmos_Omar.AssemblyInfo.cs
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\obj\Debug\net6.0\o examen_algoritmos_Omar.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\obj\Debug\net6.0\o examen_algoritmos_Omar.dll
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\obj\Debug\net6.0\refint\o examen_algoritmos_Omar.dll
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\obj\Debug\net6.0\o examen_algoritmos_Omar.pdb
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\obj\Debug\net6.0\o examen_algoritmos_Omar.genruntimeconfig.cache
+C:\Users\Omar\source\repos\o examen_algoritmos_Omar\obj\Debug\net6.0\ref\o examen_algoritmos_Omar.dll
